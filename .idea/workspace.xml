@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4636bd6-4ef8-49c8-a3fa-ea1f2c8b926c" name="Changes" comment="adding services images" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KhRoua&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/safasahli/EVENTIFY.git&quot;,
+    &quot;accountId&quot;: &quot;478890b7-e025-4af0-839f-f6e91d56c784&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2s1eOr9ppZl3c8FfKY5sluI5bEQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.demo [clean,install].executor": "Run",
+    "Maven.demo [clean].executor": "Run",
+    "Maven.demo [install].executor": "Run",
+    "Maven.demo [validate].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.EventiqueApplication.executor": "Debug",
+    "git-widget-placeholder": "final-branch",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/roua khenissi/IdeaProjects/EVENTIFY-Project/Eventique_V0/EVENTIFY",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="EventiqueApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.EventiqueApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4636bd6-4ef8-49c8-a3fa-ea1f2c8b926c" name="Changes" comment="" />
+      <created>1737627479174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737627479174</updated>
+      <workItem from="1737627481193" duration="2948000" />
+      <workItem from="1737706104937" duration="2995000" />
+      <workItem from="1737804807645" duration="5345000" />
+      <workItem from="1737991416241" duration="16416000" />
+      <workItem from="1738017130289" duration="843000" />
+      <workItem from="1738094346521" duration="4877000" />
+      <workItem from="1738236899225" duration="3599000" />
+      <workItem from="1738749962676" duration="6116000" />
+      <workItem from="1739358185541" duration="3067000" />
+      <workItem from="1740562772013" duration="1755000" />
+      <workItem from="1743778802399" duration="15113000" />
+      <workItem from="1744198919592" duration="16546000" />
+      <workItem from="1744385751763" duration="1039000" />
+      <workItem from="1744450213253" duration="8989000" />
+      <workItem from="1744540349917" duration="6227000" />
+      <workItem from="1744884057696" duration="8094000" />
+      <workItem from="1744919164926" duration="5057000" />
+      <workItem from="1745090157947" duration="5110000" />
+      <workItem from="1745152163350" duration="1841000" />
+      <workItem from="1745154048824" duration="7514000" />
+      <workItem from="1745227835813" duration="10423000" />
+      <workItem from="1745343654480" duration="17620000" />
+      <workItem from="1745427935687" duration="13617000" />
+      <workItem from="1745443085297" duration="1641000" />
+      <workItem from="1745518319281" duration="15924000" />
+      <workItem from="1745579559475" duration="4215000" />
+      <workItem from="1745591366360" duration="3710000" />
+      <workItem from="1745697364563" duration="5017000" />
+      <workItem from="1745754047624" duration="17525000" />
+      <workItem from="1745791379801" duration="1445000" />
+      <workItem from="1746001209546" duration="9435000" />
+      <workItem from="1746011110665" duration="12958000" />
+      <workItem from="1746092783008" duration="12885000" />
+      <workItem from="1746171020851" duration="13013000" />
+      <workItem from="1746258586099" duration="18170000" />
+      <workItem from="1746473967032" duration="2649000" />
+      <workItem from="1746529384268" duration="19232000" />
+      <workItem from="1747070738487" duration="1944000" />
+      <workItem from="1747123939881" duration="1902000" />
+      <workItem from="1747223410821" duration="11459000" />
+      <workItem from="1747291992608" duration="3952000" />
+      <workItem from="1748690059934" duration="919000" />
+    </task>
+    <task id="LOCAL-00001" summary="add reviews">
+      <option name="closed" value="true" />
+      <created>1737627755935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737627755935</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add reviews">
+      <option name="closed" value="true" />
+      <created>1738012075687</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738012075687</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit order API">
+      <option name="closed" value="true" />
+      <created>1738017274013</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738017274013</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit user changes">
+      <option name="closed" value="true" />
+      <created>1738099154021</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738099154021</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit orderitem and booking">
+      <option name="closed" value="true" />
+      <created>1738750107157</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738750107157</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added JWT authentication system">
+      <option name="closed" value="true" />
+      <created>1744889591323</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744889591323</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added JWT authentication system">
+      <option name="closed" value="true" />
+      <created>1744889791082</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744889791082</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added JWT authentication system">
+      <option name="closed" value="true" />
+      <created>1744889869321</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744889869321</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Saving image data in database">
+      <option name="closed" value="true" />
+      <created>1745583270289</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1745583270289</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Saving image data in database">
+      <option name="closed" value="true" />
+      <created>1745583317401</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1745583317401</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Saving image data in database">
+      <option name="closed" value="true" />
+      <created>1745591423101</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1745591423101</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Saving image data in database">
+      <option name="closed" value="true" />
+      <created>1745592903485</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1745592903485</updated>
+    </task>
+    <task id="LOCAL-00013" summary="adding services images">
+      <option name="closed" value="true" />
+      <created>1747292562160</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1747292562160</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add reviews" />
+    <MESSAGE value="commit order API" />
+    <MESSAGE value="commit user changes" />
+    <MESSAGE value="commit orderitem and booking" />
+    <MESSAGE value="added JWT authentication system" />
+    <MESSAGE value="Saving image data in database" />
+    <MESSAGE value="adding services images" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding services images" />
+  </component>
+</project>
