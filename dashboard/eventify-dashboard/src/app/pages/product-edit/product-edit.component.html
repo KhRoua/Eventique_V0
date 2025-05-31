@@ -1,0 +1,55 @@
+<div class="d-sm-flex align-items-center justify-content-between mb-4">
+  <h1 class="h3 mb-0 text-gray-800">Add Product</h1>
+</div>
+
+<div class="page-content">
+  <form [formGroup]="productForm">
+  <div class="row g-4">
+    
+      <div class="col-md-6">
+        <label class="form-label">Name</label>
+        <input class="form-control" type="text" placeholder="Enter product name" formControlName="name" name="name">
+      </div>
+
+      <!-- Total lecture -->
+      <div class="col-md-6">
+        <label class="form-label">Description</label>
+        <textarea class="form-control" type="text" placeholder="Enter product description" formControlName="description" name="description"></textarea>
+      </div>
+
+      <div class="col-md-6">
+        <label class="form-label">Base Price</label>
+        <input class="form-control" type="number" placeholder="0" step="0.01" formControlName="basePrice" name="basePrice">
+      </div>
+
+      <div class="col-md-6">
+        <label class="form-label">Stock Quantity</label>
+        <input class="form-control" type="number" placeholder="0" formControlName="stockQuantity" name="stockQuantity">
+      </div>
+
+      <div class="col-md-6">
+        <label class="form-label" for="category">Category</label>
+        <select id="category" class="form-control" formControlName="category" name="category">
+          <option *ngFor="let category of categories" [ngValue]="category">{{ category.name }}</option>
+        </select>
+      </div>
+
+      <div class="col-md-6">
+        <label class="form-label" for="category">Product Image</label>
+        <input class="form-control" formControlName="productImages" id="imageInput" type="file" (change)="onImageSelected($event)" accept="image/*"
+        multiple />
+      </div>
+    
+    
+    
+    
+      <div class="col-md-12 pt-4">
+        <div class="d-flex justify-content-end">
+          <button type="button" class="btn btn-secondary mr-2" >Cancel</button>
+          <button type="submit" class="btn btn-primary" (click)="saveProduct()">Save</button>
+        </div>
+      </div>
+  </div>
+</form>
+
+</div>

@@ -1,0 +1,45 @@
+<form [formGroup]="productForm">
+  <div>
+    <label>Name:</label>
+    <input type="text" formControlName="name" name="name" required />
+  </div>
+
+  <div>
+    <label>Description:</label>
+    <textarea formControlName="description" name="description"></textarea>
+  </div>
+
+  <div>
+    <label>Base Price:</label>
+    <input type="number" step="0.01" formControlName="basePrice" name="basePrice" required />
+  </div>
+
+  <div>
+    <label>Stock Quantity:</label>
+    <input type="number" formControlName="stockQuantity" name="stockQuantity" required />
+  </div>
+  
+  <div class="form-group">
+    <label for="category">Category</label>
+    <select id="category" class="form-control" formControlName="category" name="category">
+      <option *ngFor="let category of categories" [ngValue]="category">{{ category.name }}</option>
+    </select>
+  </div>
+  
+
+  <input
+  formControlName="productImages"
+  id="imageInput"
+  type="file"
+  (change)="onImageSelected($event)"
+  accept="image/*"
+  multiple
+/>
+
+  
+  
+
+  <button type="submit" (click)="saveProduct()">Save the product</button>
+</form>
+
+  
